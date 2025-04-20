@@ -2,7 +2,7 @@
 A simple lightweight script to display a different wallpaper everytime you login. I made this because I had screenshots of every proverb (kotowaza in Japanese) from the anime Inazuma Eleven but never actually read them so this is a way to see a different one everyday without actively having to open them.
 
 # Instructions for visual learners
-[![Tutorial Video](https://img.youtube.com/vi/dLnloHvm5hU/0.jpg)](https://youtu.be/dLnloHvm5hU)
+[![Tutorial Video](https://img.youtube.com/vi/7TpwesClEiQ/0.jpg)](https://youtu.be/7TpwesClEiQ)
 
 # Instructions 
 
